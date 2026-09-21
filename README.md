@@ -1,6 +1,6 @@
 ### Hi there 👋🏻  This is Peter!
 
-I am a Software Engineer and Machine Learning Engineer working at Google
+I am a Software Engineer and Machine Learning Engineer working at [Google](https://www.google.com/)
 
 - 🌱 Currently building systems reliability of zero-trust security infrastructure
 - 🥑 Bachelor of Computer Science & Master of Engineering at the [University of Waterloo](https://uwaterloo.ca/)
